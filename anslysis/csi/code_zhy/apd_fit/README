@@ -1,0 +1,7 @@
+root_fit.c  origin version, 1 thread.
+
+fit_csi_multithread.cpp  chnaged, can used more threads to fit waveform.
+run like:
+1) make   --->generate pid
+2) ./run.sh RunNumber NumberOfThread     ---> add all to generete final rootfile
+
